@@ -1,0 +1,23 @@
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\RobotVision_Release.exe
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\RobotVision_Release.pdb
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\Emgu.CV.dll
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\Emgu.CV.UI.dll
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\Emgu.Util.dll
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\ZedGraph.dll
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\Emgu.CV.pdb
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\Emgu.CV.xml
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\Emgu.CV.UI.xml
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\Emgu.Util.pdb
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\Emgu.Util.xml
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\bin\Debug\ZedGraph.xml
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\obj\x86\Debug\RobotVision_Release.MainForm.resources
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\obj\x86\Debug\RobotVision_Release.Properties.Resources.resources
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\obj\x86\Debug\RobotVision_Release.exe
+D:\我的文档\Visual Studio 2010\Projects\RobotVision_Small\RobotVision_Release\obj\x86\Debug\RobotVision_Release.pdb
+D:\竞赛\ROBOCON往届资料\ROBOCON2011\ABU ROBOT 2011\OurProject\！康轶非\RobotVision_Small_淘汰赛\RobotVision_Release\obj\x86\Debug\RobotVision_Release.exe
+D:\竞赛\ROBOCON往届资料\ROBOCON2011\ABU ROBOT 2011\OurProject\！康轶非\RobotVision_Small_淘汰赛\RobotVision_Release\obj\x86\Debug\RobotVision_Release.pdb
+C:\Users\lenovo\Desktop\RobotVision\RobotVision_Release\obj\x86\Debug\RobotVision_Release.exe
+C:\Users\lenovo\Desktop\RobotVision\RobotVision_Release\obj\x86\Debug\RobotVision_Release.pdb
